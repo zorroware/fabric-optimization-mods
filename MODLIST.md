@@ -10,6 +10,7 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 | Canvas | A shader-oriented rendering engine replacement. Focuses on functionality over raw performance. | Grondag | Yes | No | Sodium | https://github.com/grondag/canvas/ |
 | Cull Leaves | A renderer tweak that implements leaf culling similar to OptiFine's. NOTE: This will negatively impact visuals! | TeamMidnightDust | Yes | No | None | https://github.com/TeamMidnightDust/CullLeaves/ |
 | Entity Culling | A rendering tweak that implements asynchronous culling to entities. | tr7zw | No | No | None | https://github.com/tr7zw/EntityCulling-Fabric/ |
+| Better Beds | Makes Minecraft use the built-in renderer for beds rather than the custom one, to improve rendering performance when around beds. | TeamMidnightDust | No | No | None | https://github.com/TeamMidnightDust/BetterBeds/ |
 
 ## Server
 | Name | Description | Developer | Stable | Dangerous | Incompatibilities | GitHub Link |
