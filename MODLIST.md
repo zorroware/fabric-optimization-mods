@@ -8,6 +8,7 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 | --- | --- | --- | --- | --- | --- | --- |
 | Sodium | A rendering engine replacement designed to boost your framerate and reduce random stuttering. | CaffeineMC | Mostly | No | Canvas | https://github.com/jellysquid3/sodium-fabric/ |
 | Canvas | A shader-oriented rendering engine replacement. Focuses on functionality over raw performance. | Grondag | Yes | No | Sodium | https://github.com/grondag/canvas/ |
+| Cull Leaves | A renderer tweak that implements leaf culling similar to OptiFine's. NOTE: This will negatively impact visuals! | TeamMidnightDust | Yes | No | None | https://github.com/TeamMidnightDust/CullLeaves/ |
 
 ## Server
 | Name | Description | Developer | Stable | Dangerous | Incompatibilities | GitHub Link |
