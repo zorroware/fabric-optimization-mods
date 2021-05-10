@@ -45,3 +45,4 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 | --- | --- | --- | --- | --- | --- | --- |
 | Sodium Extra Fabric (Requires Sodium) | Adds more graphical settings to Sodium, similar to OptiFine's. | FlashyReese | No | No | Canvas | https://github.com/FlashyReese/sodium-extra-fabric/ |
 | Dynamic FPS | Slows down Minecraft's rendering when Minecraft is minimized or in the background to improve performance in other applications. | juliand665 | Yes | No | None | https://github.com/juliand665/Dynamic-FPS/ |
+| Better Sodium Video Settings Button | Adds a seperate button for sodiums settings page rather than overwriting the default page, compatable with sodium extras | LimeShulkerBox | Yes | No | None | https://github.com/LimeShulkerBox/better-sodium-video-settings
