@@ -45,3 +45,4 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 | --- | --- | --- | --- | --- | --- | --- |
 | Sodium Extra Fabric (Requires Sodium) | Adds more graphical settings to Sodium, similar to OptiFine's. | FlashyReese | No | No | Canvas | https://github.com/FlashyReese/sodium-extra-fabric/ |
 | Dynamic FPS | Slows down Minecraft's rendering when Minecraft is minimized or in the background to improve performance in other applications. | juliand665 | Yes | No | None | https://github.com/juliand665/Dynamic-FPS/ |
+| LambdaControls | Adds improved controller support and experimental touchscreen support to java minecraft. | LambdAurora | Mostly | No | None | https://github.com/LambdAurora/LambdaControls
