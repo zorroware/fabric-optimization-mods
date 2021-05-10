@@ -45,3 +45,4 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 | --- | --- | --- | --- | --- | --- | --- |
 | Sodium Extra Fabric (Requires Sodium) | Adds more graphical settings to Sodium, similar to OptiFine's. | FlashyReese | No | No | Canvas | https://github.com/FlashyReese/sodium-extra-fabric/ |
 | Dynamic FPS | Slows down Minecraft's rendering when Minecraft is minimized or in the background to improve performance in other applications. | juliand665 | Yes | No | None | https://github.com/juliand665/Dynamic-FPS/ |
+| Save My Stronghold | Prevents outside terrain from intersecting the stronghold and destroying its generation, stopping those weird holes in the stronghold from forming, creating a unified dungeon. | yungnickyoung | Yes | No | None | https://github.com/yungnickyoung/Save-My-Stronghold/tree/fabric-1.16
