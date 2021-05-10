@@ -16,6 +16,7 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 | Name | Description | Developer | Stable | Dangerous | Incompatibilities | GitHub Link |
 | --- | --- | --- | --- | --- | --- | --- |
 | Lithium | A mod that optimizes some aspects of Minecraft's server, while maintaining behavior identical to vanilla. Works in singleplayer. | CaffeineMC | Yes | No | None | https://github.com/jellysquid3/lithium-fabric/ |
+| Better Local Server | Adds a local server menu similar to that of the bedrock edition. | Rederpz | Yes | No | None | https://github.com/Rederpz/Better-Local-Server
 
 ## Lighting
 | Name | Description | Developer | Stable | Dangerous | Incompatibilities | GitHub Link |
