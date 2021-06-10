@@ -41,5 +41,5 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 ### These mods are extras that do not improve game performance.
 | Name | <div style="width:290px">Description</div> | Developer | Incompatibilities | GitHub Link |
 | --- | --- | --- | --- | --- |
-| Sodium Extra Fabric (Requires Sodium) | Adds more graphical settings to Sodium, similar to OptiFine's. | FlashyReese | Canvas | https://github.com/FlashyReese/sodium-extra-fabric/ |
+| Sodium Extra Fabric (Requires Sodium) | Adds more graphical settings to Sodium, similar to OptiFine's. | FlashyReese | Unknown | https://github.com/FlashyReese/sodium-extra-fabric/ |
 | Dynamic FPS | Slows down Minecraft's rendering when Minecraft is minimized or in the background to improve performance in other applications. | juliand665 | Unknown | https://github.com/juliand665/Dynamic-FPS |
