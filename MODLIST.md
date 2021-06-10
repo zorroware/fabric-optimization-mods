@@ -20,7 +20,7 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 | Name | <div style="width:290px">Description</div> | Developer | Incompatibilities | GitHub Link |
 | --- | --- | --- | --- | --- |
 | Phosphor | A smaller mod that makes Minecraft's bulky and slow lighting engine much faster. | Jellysquid | Starlight | https://github.com/jellysquid3/phosphor-fabric |
-| Starlight | An experimental mod that can speed up lighting calculations by 26x compared to Phosphor (according to the developer). | Spottedleaf | Phosphor | https://github.com/Spottedleaf/Starlight |
+| Starlight | **WARNING: Uses non-free Mojang mappings!**<br>An experimental mod that can speed up lighting calculations by 26x compared to Phosphor (according to the developer). | Spottedleaf | Phosphor | https://github.com/Spottedleaf/Starlight |
 
 ## Memory
 | Name | <div style="width:290px">Description</div> | Developer | Incompatibilities | GitHub Link |
