@@ -8,9 +8,7 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 | --- | --- | --- | --- | --- |
 | Sodium | A rendering engine replacement designed to boost your framerate and reduce random stuttering. | CaffeineMC | Canvas | https://github.com/jellysquid3/sodium-fabric |
 | Canvas | A shader-oriented rendering engine replacement. Focuses on functionality over raw performance. | Grondag | Sodium | https://github.com/grondag/canvas |
-| Cull Leaves | A renderer tweak that implements leaf culling similar to OptiFine's. NOTE: This will negatively impact visuals! | TeamMidnightDust | None | https://github.com/TeamMidnightDust/CullLeaves |
 | Entity Culling | A rendering tweak that implements asynchronous culling to entities. | tr7zw | None | https://github.com/tr7zw/EntityCulling-Fabric |
-| Better Beds | Makes Minecraft use the built-in renderer for beds rather than the custom one, to improve rendering performance when around beds. | TeamMidnightDust | None | https://github.com/TeamMidnightDust/BetterBeds |
 
 ## Server
 | Name | <div style="width:290px">Description</div> | Developer | Incompatibilities | GitHub Link |
@@ -36,7 +34,6 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 ## Start-up
 | Name | <div style="width:290px">Description</div> | Developer | Incompatibilities | GitHub Link |
 | --- | --- | --- | --- | --- |
-| Cadmium | Loader for Jellysquid's optimized fork of Mojang's DataFixerUpper. Speeds up game loading. LucilleTea's port is required for 1.16.x. | Jellysquid, LucilleTea (port) | None | https://github.com/jellysquid3/cadmium-fabric/, https://github.com/LucilleTea/cadmium-fabric |
 | LazyDFU | Prevents DFU from being built until it is needed. Compatible with Cadmium and I highly recommend using these two together. | astei | None | https://github.com/astei/lazydfu |
 
 ## Extras
