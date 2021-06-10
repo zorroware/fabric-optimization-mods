@@ -24,7 +24,7 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 ## Memory
 | Name | <div style="width:290px">Description</div> | Developer | Incompatibilities | GitHub Link |
 | --- | --- | --- | --- | --- |
-| Hydrogen | Reduces RAM usage of Minecraft by compacting models and other misc. data. More effective with more content mods. | CaffeineMC | Unknown | https://github.com/jellysquid3/hydrogen-fabric |
+| Hydrogen | Reduces RAM usage of Minecraft by compacting models and other misc. data. More effective with more content mods. | CaffeineMC | DashLoader | https://github.com/jellysquid3/hydrogen-fabric |
 | FerriteCore | **WARNING: Uses non-free MCP mappings!**<br>A mod similar to Hydrogen that employs more memory-efficient logic. Works very well with Hydrogen. | malte0811 | Unknown | https://github.com/malte0811/FerriteCore |
 
 ## Network
@@ -36,6 +36,7 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 | Name | <div style="width:290px">Description</div> | Developer | Incompatibilities | GitHub Link |
 | --- | --- | --- | --- | --- |
 | LazyDFU | Prevents DFU from being built until it is needed. | astei | Unknown | https://github.com/astei/lazydfu |
+| DashLoader | Builds caches to load the game much faster. Works with LazyDFU but is extremely invasive and incompatible with many mods. | alphaqu | Hydrogen | https://github.com/alphaqu/DashLoader |
 
 ## Extras
 ### These mods are extras that do not improve game performance.
