@@ -35,7 +35,7 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 ## Start-up
 | Name | <div style="width:290px">Description</div> | Developer | Incompatibilities | GitHub Link |
 | --- | --- | --- | --- | --- |
-| LazyDFU | Prevents DFU from being built until it is needed. Compatible with Cadmium and I highly recommend using these two together. | astei | Unknown | https://github.com/astei/lazydfu |
+| LazyDFU | Prevents DFU from being built until it is needed. | astei | Unknown | https://github.com/astei/lazydfu |
 
 ## Extras
 ### These mods are extras that do not improve game performance.
