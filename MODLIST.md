@@ -25,6 +25,7 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 | Name | <div style="width:290px">Description</div> | Developer | Incompatibilities | GitHub Link |
 | --- | --- | --- | --- | --- |
 | Hydrogen | Reduces RAM usage of Minecraft by compacting models and other misc. data. More effective with more content mods. | CaffeineMC | None | https://github.com/jellysquid3/hydrogen-fabric |
+| FerriteCore | **WARNING: Uses non-free MCP mappings!**<br>A mod similar to Hydrogen that employs more memory-efficient logic. Works very well with Hydrogen. | malte0811 | None | https://github.com/malte0811/FerriteCore |
 
 ## Network
 | Name | <div style="width:290px">Description</div> | Developer | Incompatibilities | GitHub Link |
