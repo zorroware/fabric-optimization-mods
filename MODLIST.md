@@ -39,7 +39,7 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 | Cadmium | Loader for Jellysquid's optimized fork of Mojang's DataFixerUpper. Speeds up game loading. LucilleTea's port is required for 1.16.x. | Jellysquid, LucilleTea (port) | No | Yes | None | https://github.com/jellysquid3/cadmium-fabric/, https://github.com/LucilleTea/cadmium-fabric/ |
 | LazyDFU | Prevents DFU from being built until it is needed. Compatible with Cadmium and I highly recommend using these two together. | astei | Yes | No | None | https://github.com/astei/lazydfu/ |
 
-## Extra Utility
+## Extras
 ### Note: These mods are extras that do not improve game performance.
 | Name | <div style="width:290px">Description</div> | Developer | Stable | Dangerous | Incompatibilities | GitHub Link |
 | --- | --- | --- | --- | --- | --- | --- |
