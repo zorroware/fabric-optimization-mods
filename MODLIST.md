@@ -9,6 +9,7 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 | Sodium | A rendering engine replacement designed to boost your framerate and reduce random stuttering. | CaffeineMC | Canvas | https://github.com/jellysquid3/sodium-fabric |
 | Canvas | A shader-oriented rendering engine replacement. Focuses on functionality over raw performance. | Grondag | Sodium | https://github.com/grondag/canvas |
 | Entity Culling | A rendering tweak that implements asynchronous culling to entities. | tr7zw | Unknown | https://github.com/tr7zw/EntityCulling-Fabric |
+| Cull Particles | This mod adds culling to particles. Redundant if using Sodium, as Sodium has its own implementation, but this should be used by Canvas or Vanilla users. | Tfarcenim | Sodium (redundant) | https://github.com/Tfarcenim/CullParticlesFabric |
 | Enhanced Block Entities | Replaces most block entities with baked models. Also allows more customization using JSON. Depends on FRAPI and thus requires [Indium](https://github.com/comp500/Indium) if using Sodium. | FoundationGames | Unknown | https://github.com/FoundationGames/EnhancedBlockEntities |
 
 ## Server
