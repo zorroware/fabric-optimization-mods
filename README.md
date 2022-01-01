@@ -1,5 +1,8 @@
 # Zorroware Fabric Optimization Mods List
 
+## This mod list is deprecated.
+See [this repository](https://github.com/NordicGamerFE/usefulmods) for an objectively better resource.
+
 [![](https://img.shields.io/github/license/zorroware/fabric-optimization-mods?style=for-the-badge)](LICENSE)
 [![](https://img.shields.io/discord/862783925093138443?color=7289DA&logo=discord&style=for-the-badge)](https://discord.gg/QPgeT3VN4c)
 
